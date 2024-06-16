@@ -4,6 +4,8 @@ using namespace std;
 
 //Main class
 int main(){
+    
+    //Simplemente un comentario
     StringBuilder word;
 
     word.append("Hola ");
